@@ -1,4 +1,4 @@
-package com.example.plugin;
+package com.github.marlega.Plugin;
 
 import dev.arbjerg.lavalink.api.ISocketContext;
 import dev.arbjerg.lavalink.api.PluginEventHandler;
@@ -12,7 +12,7 @@ public class RessoPlugin extends PluginEventHandler {
 
     private static final Logger log = LoggerFactory.getLogger(RessoPlugin.class);
 
-    public ExamplePlugin() {
+    public RessoPlugin() {
         log.info("Hello, world!");
     }
 
