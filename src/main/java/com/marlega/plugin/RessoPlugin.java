@@ -1,4 +1,4 @@
-package com.github.marlega.Plugin;
+package com.marlega.plugin;
 
 import dev.arbjerg.lavalink.api.ISocketContext;
 import dev.arbjerg.lavalink.api.PluginEventHandler;
