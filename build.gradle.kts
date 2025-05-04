@@ -3,11 +3,11 @@ plugins {
     alias(libs.plugins.lavalink)
 }
 
-group = "com.github.marlega.RessoPlugin"
+group = "com.github.marlega.Plugin"
 version = "0.1.0"
 
 lavalinkPlugin {
-    name = "plugin-template"
+    name = "resso-plugin"
     apiVersion = libs.versions.lavalink.api
     serverVersion = libs.versions.lavalink.server
 }
