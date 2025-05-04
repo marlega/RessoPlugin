@@ -3,7 +3,7 @@ plugins {
     alias(libs.plugins.lavalink)
 }
 
-group = "com.github.marlega.Plugin"
+group = "com.marlega.plugin"
 version = "0.1.0"
 
 lavalinkPlugin {
