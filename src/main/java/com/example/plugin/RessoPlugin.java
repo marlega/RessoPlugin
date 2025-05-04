@@ -8,9 +8,9 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 @Service
-public class ExamplePlugin extends PluginEventHandler {
+public class RessoPlugin extends PluginEventHandler {
 
-    private static final Logger log = LoggerFactory.getLogger(ExamplePlugin.class);
+    private static final Logger log = LoggerFactory.getLogger(RessoPlugin.class);
 
     public ExamplePlugin() {
         log.info("Hello, world!");
