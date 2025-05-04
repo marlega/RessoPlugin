@@ -3,7 +3,7 @@ plugins {
     alias(libs.plugins.lavalink)
 }
 
-group = "com.marlega.RessoPlugin"
+group = "com.github.marlega.RessoPlugin"
 version = "0.1.0"
 
 lavalinkPlugin {
