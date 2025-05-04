@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.marlega"
-version = "0.1.1"
+version = "1.1.1"
 
 lavalinkPlugin {
     name = "resso-plugin"
