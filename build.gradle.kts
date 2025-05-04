@@ -3,7 +3,7 @@ plugins {
     alias(libs.plugins.lavalink)
 }
 
-group = "com.example"
+group = "com.RessoPlugin"
 version = "0.1.0"
 
 lavalinkPlugin {
